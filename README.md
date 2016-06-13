@@ -6,6 +6,8 @@
 代码耦合性强也情有可原。
 
 这几年，随着Android的发展以及各位大牛的努力，相继流行起MVP，MVVM的架构模式。就连Google也开源出了一些供大家学习使用MVP架构模式的
-Demo【https://github.com/googlesamples/android-architecture】，所以大家应该花些时间学习使用MVP架构模式了。
+Demo，所以大家应该花些时间学习使用MVP架构模式了。
+
+谷歌MVP样例地址：https://github.com/googlesamples/android-architecture
 
 本着学习交流的想法，这里做一个例子，敬请大家多提宝贵意见。
